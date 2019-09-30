@@ -3058,7 +3058,7 @@ input[type="button"].btn-block {
   height: 0;
   margin: 0.5rem 0;
   overflow: hidden;
-  border-top: 1px solid #e9ecef;
+  border-top: 1px solid #8aa892;
 }
 
 .dropdown-item {
@@ -9565,7 +9565,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: white;
+  border-color: #8aa892;
 }
 
 hr.light {
